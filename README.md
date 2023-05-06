@@ -1,7 +1,7 @@
 # Base_Conversion_Library
 A simple C++ library that allows conversion from any base number systems to any other
 
-https://github.com/clraifo/Base_Conversion_Library/blob/main/Running_GIF.gif
+![](https://github.com/clraifo/Base_Conversion_Library/blob/main/Running_GIF.gif)
 
 Base_Converter_HEADER.h calls Base_Convertor_COURSE, which does the heavy actual math work.
 
